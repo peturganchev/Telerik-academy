@@ -14,7 +14,7 @@ class Prime_Numbers
             {
                 result = i;
 
-                for (int j = i * i; j <= length; j += i)
+                for (int j = i * 2; j <= length; j += i)
                 {
                     arr[j] = 1;
                 }
