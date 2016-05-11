@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Index of letters", "12.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Compare_Arrays", "02. Compare_Arrays\02. Compare_Arrays.csproj", "{D49CF5BF-A305-4F53-A217-F64AB7061AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Merge sort", "13. Merge sort\13. Merge sort.csproj", "{BE995E94-B02B-4D6D-A390-CEF91CBD004B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{934F47B3-36CC-4CAC-B032-025F02194D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{D49CF5BF-A305-4F53-A217-F64AB7061AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D49CF5BF-A305-4F53-A217-F64AB7061AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D49CF5BF-A305-4F53-A217-F64AB7061AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE995E94-B02B-4D6D-A390-CEF91CBD004B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE995E94-B02B-4D6D-A390-CEF91CBD004B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE995E94-B02B-4D6D-A390-CEF91CBD004B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE995E94-B02B-4D6D-A390-CEF91CBD004B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934F47B3-36CC-4CAC-B032-025F02194D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934F47B3-36CC-4CAC-B032-025F02194D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934F47B3-36CC-4CAC-B032-025F02194D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934F47B3-36CC-4CAC-B032-025F02194D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
