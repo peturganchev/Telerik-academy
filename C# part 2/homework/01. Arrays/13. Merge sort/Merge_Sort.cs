@@ -2,9 +2,9 @@
 
 class Merge_Sort
 {
-    static public void MainMerge(int[] numbers, int left, int mid, int right)
+    static public void MainMerge(int length, int[] numbers, int left, int mid, int right)
     {
-        int[] temp = new int[25];
+        int[] temp = new int[length];
         int i, eol, num, pos;
 
         eol = (mid - 1);
@@ -32,17 +32,16 @@ class Merge_Sort
         }
     }
 
-    static public void SortMerge(int[] numbers, int left, int right)
+    static public void SortMerge(int length, int[] numbers, int left, int right)
     {
         int mid;
 
         if (right > left)
         {
             mid = (right + left) / 2;
-            SortMerge(numbers, left, mid);
-            SortMerge(numbers, (mid + 1), right);
-
-            MainMerge(numbers, left, (mid + 1), right);
+            SortMerge(length, numbers, left, mid);
+            SortMerge(length, numbers, (mid + 1), right);
+            MainMerge(length, numbers, left, (mid + 1), right);
         }
     }
 
@@ -54,11 +53,10 @@ class Merge_Sort
         {
             arr[i] = int.Parse(Console.ReadLine());
         }
-        SortMerge(arr, 0, length - 1);
+        SortMerge(length, arr, 0, length - 1);
         for (int i = 0; i < length; i++)
         {
             Console.WriteLine(arr[i]);
         }
     }
-
 }
