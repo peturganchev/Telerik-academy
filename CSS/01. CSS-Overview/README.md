@@ -43,7 +43,7 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MTIzNzY2MjA6NzI5OWQ2NGE4MjBmNzAwNDU3MWMzZjMwYmU5MTAxZWM6YWNkMGE2ZWVhMmEwNjA3YmI2ZWVlZmI5MDNlNmY3MWMyMWJmYmUwNjBmMGZkNmI3NTJmZDBlY2QxNmM3NjY5NA==--6425901a9f3b4273cdb9b2fc323170910886c816">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MTIzNzY2MjA6NzI5OWQ2NGE4MjBmNzAwNDU3MWMzZjMwYmU5MTAxZWM6OGJkM2QwN2QxZGZkYTBiZjEyODkzZjUyN2E4OGNiMzZjODI0MjEzNjJmNGY5N2NhOGQ2NGFjMDY4ZDY4MDQzNQ==--70ba016bd025573dc2e7e6e79a51355786df6be6">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="D55BE98A:6DA2:6977B93:5739A99F" name="octolytics-dimension-request_id" /><meta content="12376620" name="octolytics-actor-id" /><meta content="peturganchev" name="octolytics-actor-login" /><meta content="23b9a1d509175b8caba8dd16db0a322139b002b76eeb317fb272904c85606330" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="D55BE98A:3A82:3BF54E5:5739AA94" name="octolytics-dimension-request_id" /><meta content="12376620" name="octolytics-actor-id" /><meta content="peturganchev" name="octolytics-actor-login" /><meta content="23b9a1d509175b8caba8dd16db0a322139b002b76eeb317fb272904c85606330" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="peturganchev">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="Y2FmMDNlZjFkYTc2ZWQwZTYwYWEyZDk4NjgwNjVjN2FiODZkODMzYjUzZWRiODZkMGNmYzgyZWI2YTYzMmZlOXx7InJlbW90ZV9hZGRyZXNzIjoiMjEzLjkxLjIzMy4xMzgiLCJyZXF1ZXN0X2lkIjoiRDU1QkU5OEE6NkRBMjo2OTc3QjkzOjU3MzlBOTlGIiwidGltZXN0YW1wIjoxNDYzMzk2Nzc0fQ==">
+      <meta name="js-proxy-site-detection-payload" content="YWJmOTUyY2MyMTJiZGZhNTUxZTNmNDAzZWVmMTRjNzExOGU5ZDY2ZjgwMGM2YTUwN2YyYWFmNTZiYjA4OWEwMXx7InJlbW90ZV9hZGRyZXNzIjoiMjEzLjkxLjIzMy4xMzgiLCJyZXF1ZXN0X2lkIjoiRDU1QkU5OEE6M0E4MjozQkY1NEU1OjU3MzlBQTk0IiwidGltZXN0YW1wIjoxNDYzMzk3MDE5fQ==">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -87,7 +87,7 @@
   <link href="https://github.com/TelerikAcademy/CSS/commits/master.atom" rel="alternate" title="Recent Commits to CSS:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/TelerikAcademy/CSS/blob/master/Topics/01.%20CSS-Overview/README.md" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/TelerikAcademy/CSS/blob/master/Topics/01.%20CSS-Overview/homework/README.md" data-pjax-transient>
   </head>
 
 
@@ -230,7 +230,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rcmjdfnXD4NOwoS0GQIauomyiB9BvIBfoTMGw2262kQL9loLYzZZcuH4+eu21mMGDe7F7eL+Ycn3L3utyXIKRw==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TDJxKTVdqcBDz4CuO73OXmWkYAgIl6U79w0nROB0G1nuxUCXHlGKEFum247V1+o8dxLuEbohXpWhI36lV+03xA==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -267,7 +267,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ObLoWBRWGjcfZ6TDY5r9FhmAbflpWkfiu7vAOMSYpiw4AKFGFqWIQHHNa6fmEWdWj0oV4H5r8CKVCySkoz0Bhw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="33308143" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GuEwNDeBNV+1oR1HZyC5fXTUbv/v1htJ0Bi4zYj5yvqlcW59YgwrdOn3YPDlBF4BYRX4caZ1CRmi9DZdKyF/Pw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="33308143" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/TelerikAcademy/CSS/subscription"
@@ -342,7 +342,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/unstar" class="starred" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/R01T94oSUJcBpIZtMbTcbVFHkUpn2iqTg9xFy7rqGKXXm8TlmykRwJkJoMUOmE8JdtWZGlxts1Pi0fQ06H2Ag==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/unstar" class="starred" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TWJl6J0Rrp7JjhYNSa+ywhHyUnNLEz3sjfaKu+H4mWFB9WGcigdP3oeOGStQEPE7R8I+/TGqgQUzGhv+DSevtQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar TelerikAcademy/CSS"
@@ -354,7 +354,7 @@
           9
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/star" class="unstarred" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="sJf5xTEP5nWUl0tjjaQqJ8z3e8tS61vG7pdI/FyCSyqr5159T/CmL19rtIgLcchX2kuvm2oHq7gYUYCzpalNug==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/star" class="unstarred" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bUVK6YUY1ztBVfd4W/pmZVnznspl9rdatMUqnkUtaJTaOzRjZ8YEZRFVcF6viuSc2AxFPY/2G7Ze23BslSLI2w==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star TelerikAcademy/CSS"
@@ -370,7 +370,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/fork" class="btn-with-count" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="M8kBR+1NAj8OE7caTvtx/LzIw3+UqmKUkalisOzOKWIpSsKM6cg5VSknNKVBoF/kIoRypQ0wnIvRrqxdCYlvBw==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/fork" class="btn-with-count" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uKNU7tQ99dGItR+HEK5DIZ8A9CONm5TtMb5YbMcqnt0qt9MsKVJyyskjTciU7DfEsB8I/2paz87KHwq+J8Iamw==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -451,9 +451,9 @@
 
     
 
-<a href="/TelerikAcademy/CSS/blob/623036c1cbd1ab6229930eff838f9e3587ad0524/Topics/01.%20CSS-Overview/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/TelerikAcademy/CSS/blob/623036c1cbd1ab6229930eff838f9e3587ad0524/Topics/01.%20CSS-Overview/homework/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:0cc7bf0b6f390a40b56e86239d953635 -->
+<!-- blob contrib key: blob_contributors:v21:eb6ad046bb28231d78944672fea7babd -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -495,7 +495,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/TelerikAcademy/CSS/blob/master/Topics/01.%20CSS-Overview/README.md"
+               href="/TelerikAcademy/CSS/blob/master/Topics/01.%20CSS-Overview/homework/README.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -514,7 +514,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/TelerikAcademy/CSS/tree/2015/Topics/01.%20CSS-Overview/README.md"
+              href="/TelerikAcademy/CSS/tree/2015/Topics/01.%20CSS-Overview/homework/README.md"
               data-name="2015"
               data-skip-pjax="true"
               rel="nofollow">
@@ -542,22 +542,22 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/TelerikAcademy/CSS"><span>CSS</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/TelerikAcademy/CSS/tree/master/Topics"><span>Topics</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/TelerikAcademy/CSS/tree/master/Topics/01.%20CSS-Overview"><span>01. CSS-Overview</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/TelerikAcademy/CSS"><span>CSS</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/TelerikAcademy/CSS/tree/master/Topics"><span>Topics</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/TelerikAcademy/CSS/tree/master/Topics/01.%20CSS-Overview"><span>01. CSS-Overview</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/TelerikAcademy/CSS/tree/master/Topics/01.%20CSS-Overview/homework"><span>homework</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="right">
-        <a class="commit-tease-sha" href="/TelerikAcademy/CSS/commit/76b0063e819d97af470b44e8c930313ecae3bc26" data-pjax>
-          76b0063
+        <a class="commit-tease-sha" href="/TelerikAcademy/CSS/commit/c0cb166754e590d5f82846688f599669e9c4ae65" data-pjax>
+          c0cb166
         </a>
-        <relative-time datetime="2016-05-05T13:30:14Z">May 5, 2016</relative-time>
+        <relative-time datetime="2016-05-12T11:13:43Z">May 12, 2016</relative-time>
       </span>
       <div>
-        <img alt="@KonstantinSimeonov" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/10573234?v=3&amp;s=40" width="20" />
-        <a href="/KonstantinSimeonov" class="user-mention" rel="contributor">KonstantinSimeonov</a>
-          <a href="/TelerikAcademy/CSS/commit/76b0063e819d97af470b44e8c930313ecae3bc26" class="message" data-pjax="true" title="Update README.md">Update README.md</a>
+        <img alt="@cuklev" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/6568163?v=3&amp;s=40" width="20" />
+        <a href="/cuklev" class="user-mention" rel="contributor">cuklev</a>
+          <a href="/TelerikAcademy/CSS/commit/c0cb166754e590d5f82846688f599669e9c4ae65" class="message" data-pjax="true" title="Fix broken links">Fix broken links</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -565,8 +565,8 @@
         <strong>2</strong>
          contributors
       </button>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="KonstantinSimeonov" href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/README.md?author=KonstantinSimeonov"><img alt="@KonstantinSimeonov" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/10573234?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="vesheff" href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/README.md?author=vesheff"><img alt="@vesheff" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/3620516?v=3&amp;s=40" width="20" /> </a>
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="vesheff" href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/homework/README.md?author=vesheff"><img alt="@vesheff" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/3620516?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="cuklev" href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/homework/README.md?author=cuklev"><img alt="@cuklev" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/6568163?v=3&amp;s=40" width="20" /> </a>
 
 
     </div>
@@ -575,12 +575,12 @@
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
           <li class="facebox-user-list-item">
-            <img alt="@KonstantinSimeonov" height="24" src="https://avatars2.githubusercontent.com/u/10573234?v=3&amp;s=48" width="24" />
-            <a href="/KonstantinSimeonov">KonstantinSimeonov</a>
-          </li>
-          <li class="facebox-user-list-item">
             <img alt="@vesheff" height="24" src="https://avatars3.githubusercontent.com/u/3620516?v=3&amp;s=48" width="24" />
             <a href="/vesheff">vesheff</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@cuklev" height="24" src="https://avatars2.githubusercontent.com/u/6568163?v=3&amp;s=48" width="24" />
+            <a href="/cuklev">cuklev</a>
           </li>
       </ul>
     </div>
@@ -591,24 +591,24 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/TelerikAcademy/CSS/raw/master/Topics/01.%20CSS-Overview/README.md" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/TelerikAcademy/CSS/blame/master/Topics/01.%20CSS-Overview/README.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/README.md" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/TelerikAcademy/CSS/raw/master/Topics/01.%20CSS-Overview/homework/README.md" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/TelerikAcademy/CSS/blame/master/Topics/01.%20CSS-Overview/homework/README.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/TelerikAcademy/CSS/commits/master/Topics/01.%20CSS-Overview/homework/README.md" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/TelerikAcademy/CSS?branch=master&amp;filepath=Topics%2F01.%20CSS-Overview%2FREADME.md"
+           href="github-windows://openRepo/https://github.com/TelerikAcademy/CSS?branch=master&amp;filepath=Topics%2F01.%20CSS-Overview%2Fhomework%2FREADME.md"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-0.55 0-1 0.45-1 1v9c0 0.55 0.45 1 1 1h5.34c-0.25 0.61-0.86 1.39-2.34 2h8c-1.48-0.61-2.09-1.39-2.34-2h5.34c0.55 0 1-0.45 1-1V3c0-0.55-0.45-1-1-1z m0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/edit/master/Topics/01.%20CSS-Overview/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="UcCCYCekI+wCh1+0RO69wpTwVgHGciEipFgbrndZEvRazx25I/HAWFdn05jxYtwFhTkHSA8q8xAby5N77mN8QQ==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/edit/master/Topics/01.%20CSS-Overview/homework/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="b0juOeIbqu2A29nchrnFwHMnpgOjbfMakyu8PXGUpKHsbmtftDd4vDw7agUHSockY0tvj3aNrHbncoqNF2LDtQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3L0 12z m3 2H1V12h1v1h1v1z m10.3-9.3l-1.3 1.3-3-3 1.3-1.3c0.39-0.39 1.02-0.39 1.41 0l1.59 1.59c0.39 0.39 0.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/delete/master/Topics/01.%20CSS-Overview/README.md" class="inline-form" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ToJD0Hgubqu68f02peBXZU/dxnUBz8dFcO66UCKxqtvcC3TkA7wjTacxmBOlwBKe+hoa4Vn5Quaw404xWVovhw==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TelerikAcademy/CSS/delete/master/Topics/01.%20CSS-Overview/homework/README.md" class="inline-form" data-form-nonce="d259a07b307633d21d5bdd4a8b2c477374402425" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="90+/6hp6B2g2DJabxwXonzMJx9d69XTenFYw01xBRtvDv6lmXgpVF544feYdoZi9O38jiwUm+p7rNGinyv8iaQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M10 2H8c0-0.55-0.45-1-1-1H4c-0.55 0-1 0.45-1 1H1c-0.55 0-1 0.45-1 1v1c0 0.55 0.45 1 1 1v9c0 0.55 0.45 1 1 1h7c0.55 0 1-0.45 1-1V5c0.55 0 1-0.45 1-1v-1c0-0.55-0.45-1-1-1z m-1 12H2V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9z m1-10H1v-1h9v1z"></path></svg>
@@ -616,40 +616,40 @@
 </form>  </div>
 
   <div class="file-info">
-      22 lines (15 sloc)
+      19 lines (12 sloc)
       <span class="file-info-divider"></span>
-    1.36 KB
+    847 Bytes
   </div>
 </div>
 
   
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h2><a id="user-content-01-css-overview" class="anchor" href="#01-css-overview" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>01. CSS Overview</h2>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-css-overview" class="anchor" href="#css-overview" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>CSS Overview</h1>
 
-<p>What is CSS, How to use it, Selectors, Css values, External css</p>
-
-<h2><a id="user-content-resources" class="anchor" href="#resources" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Resources</h2>
-
-<h5><a id="user-content-slides---demos--tasks---videos" class="anchor" href="#slides---demos--tasks---videos" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a><a href="https://rawgit.com/TelerikAcademy/CSS/master/Topics/01.%20CSS-Overview/slides/index.html"><img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="18" style="max-width:100%;">Slides</a> / <a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/demos"><img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15" style="max-width:100%;"> Demos</a> / <a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/homework"><img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15" style="max-width:100%;">Tasks</a> / <a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/VIDEOS.md"><img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="15" style="max-width:100%;"> Videos</a></h5>
-
-<h2><a id="user-content-table-of-contents" class="anchor" href="#table-of-contents" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Table of Contents</h2>
+<h3><a id="user-content-problem-1-ticket-css" class="anchor" href="#problem-1-ticket-css" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Problem 1. Ticket CSS</h3>
 
 <ul>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/css">What is CSS?</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/styling-with-css">Styling with Cascading Style Sheets (CSS)</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/common-selectors">CSS Selectors</a>
-
-<ul>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/primary-selectors">Select by element name, id or class</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/nested-selectors">Nested Selectors</a></li>
-</ul></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/importing-css">Importing CSS into HTML</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/attribute-selectors">Attribute selectors</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/pseudo-selectors">Pseudo Selectors</a></li>
-<li><a href="/TelerikAcademy/CSS/blob/master/Topics/01. CSS-Overview/slides/README.md/css-values">CSS Values</a></li>
+<li>  Create the following page section using HTML and external CSS (no inline styles).</li>
+<li>  Use a table or a definition list (the layout will be different).</li>
 </ul>
 
-<h4><a id="user-content--home" class="anchor" href="#-home" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a><a href="/TelerikAcademy/CSS/blob/master/README.md"><img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/home.png" height="20" style="max-width:100%;"> home</a></h4>
+<p><a href="https://cloud.githubusercontent.com/assets/3619393/7183745/e7c7f452-e461-11e4-82d9-86fd12a266f6.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/3619393/7183745/e7c7f452-e461-11e4-82d9-86fd12a266f6.png" alt="picture1" style="max-width:100%;"></a></p>
+
+<h3><a id="user-content-problem-2-international-employees" class="anchor" href="#problem-2-international-employees" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Problem 2. International Employees</h3>
+
+<ul>
+<li>  Create the following Web page using external CSS styles.</li>
+</ul>
+
+<p><a href="https://cloud.githubusercontent.com/assets/3619393/7183744/e7c7704a-e461-11e4-80f5-71015ea9fd99.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/3619393/7183744/e7c7704a-e461-11e4-80f5-71015ea9fd99.png" alt="picture2" style="max-width:100%;"></a></p>
+
+<h3><a id="user-content-problem-3-forum-posts" class="anchor" href="#problem-3-forum-posts" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Problem 3. Forum Posts</h3>
+
+<ul>
+<li>  Create a web page using the design and the HTML markup in <a href="https://github.com/TelerikAcademy/CSS/blob/master/Topics/01.%20CSS-Overview/demos/homework.html">homework.html</a>.</li>
+</ul>
+
+<p><a href="https://cloud.githubusercontent.com/assets/3619393/7183746/e7c83d36-e461-11e4-8cb3-eb252752f0b4.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/3619393/7183746/e7c83d36-e461-11e4-8cb3-eb252752f0b4.png" alt="picture3" style="max-width:100%;"></a></p>
 </article>
   </div>
 
@@ -688,7 +688,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.09686s from github-fe155-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.10168s from github-fe153-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
