@@ -1,0 +1,13 @@
+﻿using System;
+using System.Linq;
+
+class SortingArray
+{
+    static void Main()
+    {
+        int length = int.Parse(Console.ReadLine());
+        int[] array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        Array.Sort(array);
+        Console.WriteLine(string.Join(" ", array));
+    }
+}
