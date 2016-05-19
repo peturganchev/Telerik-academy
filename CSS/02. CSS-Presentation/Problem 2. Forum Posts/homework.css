@@ -1,0 +1,421 @@
+﻿.clearfix,
+body header div#header-container,
+body header nav,
+body header nav ul,
+body header nav ul li ul.sub-nav-list,
+body section,
+body aside
+{
+    zoom: 1;
+}
+
+.clearfix:after,
+body header div#header-container:after,
+body header nav:after,
+body header nav ul:after,
+body header nav ul li ul.sub-nav-list:after,
+body section:after,
+body aside:after,
+.clearfix:before,
+body header div#header-container:before,
+body header nav:before,
+body header nav ul:before,
+body header nav ul li ul.sub-nav-list:before,
+body section:before,
+body aside:before
+{
+    display: block;
+    overflow: hidden;
+
+    height: 0;
+
+    content: '\0020';
+}
+
+.clearfix:after,
+body header div#header-container:after,
+body header nav:after,
+body header nav ul:after,
+body header nav ul li ul.sub-nav-list:after,
+body section:after,
+body aside:after
+{
+    clear: both;
+}
+
+body,
+header,
+section,
+footer,
+article,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+label,
+p,
+fieldset,
+nav,
+ul,
+li,
+a,
+span,
+strong,
+em
+{
+    margin: 0;
+    padding: 0;
+
+    color: white;
+    border: 0;
+}
+
+div,
+h1,
+h3,
+h4,
+h5,
+h6,
+header,
+footer,
+body,
+section,
+nav,
+article,
+aside
+{
+    display: block;
+}
+
+body
+{
+    font: 14px normal Arial;
+
+    background: rgb(215,145,255); /* Old browsers */
+    background:    -moz-linear-gradient(top,  rgba(215,145,255,1) 0%, rgba(146,21,242,1) 20%, rgba(146,21,242,1) 32%, rgba(146,21,242,1) 62%, rgba(146,21,242,1) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(215,145,255,1) 0%,rgba(146,21,242,1) 20%,rgba(146,21,242,1) 32%,rgba(146,21,242,1) 62%,rgba(146,21,242,1) 100%); /* Chrome10-25,Safari5.1-6 */
+    background:         linear-gradient(to bottom,  rgba(215,145,255,1) 0%,rgba(146,21,242,1) 20%,rgba(146,21,242,1) 32%,rgba(146,21,242,1) 62%,rgba(146,21,242,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d791ff', endColorstr='#9215f2',GradientType=0 ); /* IE6-9 */
+}
+
+body header
+{
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+}
+
+body header div#header-container div#logo-container
+{
+    position: relative;
+
+    float: left;
+}
+
+body header div#header-container div#reg-form-container
+{
+    position: relative;
+    top: 50%;
+    right: 5%;
+
+    float: right;
+}
+
+body header div#header-container div#reg-form-container div
+{
+    text-align: right;
+}
+
+body header div#header-container div#reg-form-container div label
+{
+    width: 50px;
+    margin: 5px;
+}
+
+body header div#header-container div#reg-form-container div input
+{
+    width: 130px;
+    margin: 5px;
+    padding: 2px 5px;
+
+    border: 1px solid #603382;
+    border-radius: 10px;
+    background: #b35ef3;
+}
+
+body header div#header-container div#reg-form-container button
+{
+    font-weight: bold;
+
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px 8px;
+
+    border: 1px solid #bb90dc;
+    border-style: outset;
+    border-radius: 10px;
+    background-color: #b35ef3;
+    box-shadow: .5px .5px #020305;
+}
+
+body header div#header-container div#reg-form-container button:hover
+{
+    border-style: inset;
+    background-color: #8949b9;
+}
+
+body header nav
+{
+    display: inline-block;
+
+    width: 75%;
+    margin: 20px 20px 20px 20px;
+    padding: 12px;
+
+    border: 2px solid #000;
+    border-radius: 15px;
+}
+
+body header nav ul.nav-list
+{
+    list-style-type: none;
+}
+
+body header nav ul li
+{
+    float: left;
+
+    margin: 0;
+}
+
+body header nav ul li a
+{
+    font: 1.4em normal Arial;
+
+    padding: 0 10px 0 10px;
+
+    text-decoration: none;
+
+    color: white;
+}
+
+body header nav ul li a.selected
+{
+    font-weight: bold;
+}
+
+body header nav ul li:hover > a
+{
+    text-decoration: underline;
+
+    color: #a8a8a8;
+}
+
+body header nav ul li:hover > a + ul
+{
+    display: block;
+}
+
+body header nav ul li ul.sub-nav-list
+{
+    position: absolute;
+
+    display: none;
+
+    border-radius: 5px;
+    background-color: rgba(179, 94, 243, .9);
+}
+
+body header nav ul li ul li
+{
+    float: none;
+
+    margin: 0 15px;
+    padding: 10px 0;
+
+    border-bottom: 1px solid black;
+}
+
+body header nav ul li ul li:last-of-type
+{
+    border-bottom: none;
+}
+
+body header nav ul li ul li > a
+{
+    font-size: 1.2em;
+
+    color: #fff;
+}
+
+body section
+{
+    float: left;
+
+    width: 75%;
+
+    color: black;
+}
+
+body section article
+{
+    margin: 20px;
+    padding: 20px;
+
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+body section article header
+{
+    padding: 5px;
+
+    background: none;
+}
+
+body section article header h1
+{
+    font-size: 1.4em;
+
+    padding: 0;
+}
+
+body section article footer
+{
+    padding: 5px;
+}
+
+body section article footer p
+{
+    font-size: 16px;
+    font-weight: normal;
+
+    text-align: right;
+}
+
+body section article footer p time
+{
+    font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+}
+
+body section article footer p a
+{
+    text-decoration: none;
+
+    color: #aaa;
+}
+
+body section article footer p a:hover
+{
+    text-decoration: underline;
+}
+
+body aside
+{
+    float: left;
+
+    width: 20%;
+    margin: 20px;
+}
+
+body aside > ul
+{
+    list-style-type: none;
+}
+
+body aside > ul > li
+{
+    margin: 15px 0;
+    padding: 15px;
+
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+body aside > ul > li h2
+{
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+body aside > ul > li p
+{
+    font-size: 14px;
+
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+body aside > ul > li p a
+{
+    text-decoration: none;
+
+    color: #aaa;
+}
+
+body aside > ul > li p strong
+{
+    font-weight: bold;
+    font-style: normal;
+
+    color: #ccc;
+}
+
+body aside > ul > li p em
+{
+    font-weight: normal;
+    font-style: italic;
+
+    color: #ccc;
+}
+
+body aside > ul > li ul
+{
+    margin-top: 10px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+
+    list-style-type: none;
+}
+
+body aside > ul > li ul li
+{
+    margin-top: 5px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 10px;
+    padding-left: 25px;
+
+    background: url(images/li-dot.png) no-repeat;
+    background-position: 0 50%;
+}
+
+body footer
+{
+    clear: both;
+
+    padding-top: 15px;
+    padding-right: 0;
+    padding-bottom: 35px;
+    padding-left: 0;
+}
+
+body footer p
+{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+body > footer > p
+{
+    position: absolute;
+    left: 50%;
+}
